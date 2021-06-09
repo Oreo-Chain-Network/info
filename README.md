@@ -1,3 +1,3 @@
 # info
-welcome to the official resporitry of OreoChain Network.
-OreoChain Network is currently under deveploment process. OreoChain devs are working hard to to crerate a scalable and convinet ecosystem that will revoultineze the blockchin technolgy and intgerate it with real world. Stay Tune for more updates.
+Welcome to the official repository of OreoChain Network.
+OreoChain Network is currently under development process. OreoChain devs are working hard to create a scalable and convenient ecosystem that will revolutionize the blockchain technology and integrate it with the real world. Stay Tuned for more updates.
