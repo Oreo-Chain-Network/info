@@ -1,10 +1,9 @@
 /**
- *Submitted for verification at BscScan.com on 2021-06-09
+ *Submitted for verification at BscScan.com on 2021-06-21
 */
 
 /**
- * Oreo Finance, The starting venture of OreoChain Network.
- * Applied for Verification on 10-06-2021
+ * Oreon Finance, The starting venture of OreonChain Network.
  */
 
 pragma solidity 0.6.8;
@@ -345,7 +344,7 @@ contract Ownable is Context {
   }
 }
 
-contract Oreo_Finance is Context, iBEP20, Ownable {
+contract Oreon_Finance is Context, iBEP20, Ownable {
   using SafeMath for uint256;
 
   mapping (address => uint256) private _balances;
@@ -358,8 +357,8 @@ contract Oreo_Finance is Context, iBEP20, Ownable {
   string public _name;
 
   constructor() public {
-    _name = 'Oreo Finance';
-    _symbol = 'OREO';
+    _name = 'Oreon Finance';
+    _symbol = 'OFI';
     _decimals = 12;
     _totalSupply = 48*10**3 * 10**12; //48k
     _balances[msg.sender] = _totalSupply;
